@@ -1,0 +1,1 @@
+export {TestComponent, TestComponentProps} from './component/test.component';
